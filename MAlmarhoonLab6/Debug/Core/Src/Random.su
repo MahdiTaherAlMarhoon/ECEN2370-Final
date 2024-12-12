@@ -1,0 +1,2 @@
+../Core/Src/Random.c:11:10:Number_Generator	16	static
+../Core/Src/Random.c:20:6:initRandom	16	static

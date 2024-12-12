@@ -1,0 +1,6 @@
+../Core/Src/Tetris_Game.c:22:6:Add_Shape	24	static
+../Core/Src/Tetris_Game.c:39:6:Make_Shape	8	static
+../Core/Src/Tetris_Game.c:44:6:Rotate_Shape	24	static
+../Core/Src/Tetris_Game.c:66:6:Shape_Down	16	static
+../Core/Src/Tetris_Game.c:79:6:Shape_Collide	16	static
+../Core/Src/Tetris_Game.c:96:6:Play_Game	24	static
